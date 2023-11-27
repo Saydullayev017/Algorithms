@@ -16,3 +16,6 @@ function lineSearch (array, elem) { // у функции есть два пар�
 console.log(lineSearch (array, 111)) // null
 console.log(lineSearch (array, 11)) // 8
 console.log("count = ", count) // количество итерации
+
+
+
